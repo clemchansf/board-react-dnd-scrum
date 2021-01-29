@@ -1,0 +1,40 @@
+.board {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Courier New', Courier, monospace, 'sans serif';
+}
+
+.container {
+  margin: 10px;
+  flex: 1;
+  background-color: silver;
+  border-radius: 6px;
+  min-height: 500px;
+}
+
+.title {
+  text-align: center;
+  padding: 10px;
+}
+
+.card {
+  min-height: 40px;
+  margin: 5px;
+  padding: 5px;
+  background-color: white;
+  border-radius: 6px;
+}
+
+.indicator {
+  min-width: 30px;
+}
+
+.card-icon {
+  display: flex;
+}
+
+.card-icon button {
+  width: 15px;
+  height: 15px;
+  margin-left: auto;
+}
