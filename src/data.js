@@ -2,16 +2,16 @@ const data = [
   {
     status: "open",
     items: [
-      "Design Front End layout",
-      "Design REST Api using Swagger",
-      "Write Test Plan for QA and Automation",
-      "Design Database Schemas"
+      "3. Design Front End layout",
+      "4. Design REST Api using Swagger",
+      "5. Write Test Plan for QA and Automation",
+      "6. Design Database Schemas"
     ]
   },
   {
     status: "in progress", items: [
-      "Create User Stores",
-      "Create UI/UX design"
+      "1. Create User Stores",
+      "2. Create UI/UX design"
     ]
   },
   { status: "in review", items: [] },

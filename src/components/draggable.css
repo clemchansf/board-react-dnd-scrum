@@ -38,3 +38,28 @@
   height: 15px;
   margin-left: auto;
 }
+
+.hideDraggedCard { 
+  color: "silver";
+  background-color: "silver" ;
+}
+
+.hideControl { 
+  visibility: "hidden";
+}
+
+.open {
+  background-color: "red";
+}
+
+.in-progress {
+  background-color: "purple";
+}
+
+.in-review {
+  background-color: "yellow";
+}
+
+.done {
+  background-color: "green";
+}
